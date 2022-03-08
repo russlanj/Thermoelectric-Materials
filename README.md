@@ -1,4 +1,4 @@
-# thermoelectric_materials
+# Thermoelectric Materials
 This is a supplementary file for our work "A deep learning perspective into the figure-of-merit of thermoelectric materials"
 NOTE: all of the features in this work have been generated using the Magpie software, for more info please visit: https://wolverton.bitbucket.io/
 This file includes :
